@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <a href="resume.html">Resume</a> |
+  <a href="biodata.html">Bio-data</a>
+</body>
+</html>
